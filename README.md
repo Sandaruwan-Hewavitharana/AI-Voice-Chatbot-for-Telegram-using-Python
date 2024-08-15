@@ -21,6 +21,6 @@ This project is a Python-based Telegram bot designed to process and respond to v
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/voice-activated-ai-chatbot.git
-   cd voice-activated-ai-chatbot
+   git clone https://github.com/Sandaruwan-Hewavitharana/AI-Voice-Chatbot-for-Telegram-using-Python.git
+   cd AI-Voice-Chatbot-for-Telegram-using-Python
 
